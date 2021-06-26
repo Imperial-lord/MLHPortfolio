@@ -3,10 +3,16 @@ email: absatyaprakash01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Find all the awesome projects I worked on as a part of my MLH Fellowship 
   in Fall 2020 here!
-baseurl: "/" 
-url: "/MLHPortfolio" 
+# Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
+baseurl: "/portfolio-template"
+# Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
+url: "https://mlh-fellowship.github.io"
 twitter_username: AbSatyaprakash
-github_username:  imperial-lord
+github_username: imperial-lord
+form_url: "https://formspree.io/f/xrgodpqo"
+social_image: "./assets/img/social-link.jpg"
+social_image_alt: # Alt text for the link preview image
+google_analytics_measurement_id: # G-XXXXXXXXXX
 
 sass:
   sass_dir: _sass
